@@ -1,7 +1,6 @@
+<h1  align="center">
 <img src="Think TWICE (3).png" style="border-radius: 8px;">
-
-
-<h1  align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, < Coders! > <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <br/>
 
 <img align="right" width="300" alt="illustrator" src="Developer activity-bro (1).png">
