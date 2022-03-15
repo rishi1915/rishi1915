@@ -16,15 +16,15 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <h3>Technologies and Tools:</h3> 
     
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a>  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="postman" width="45" height="45"/> </a>
-       <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png" alt="vscode" width="45" height="45"/> </a>
-       <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://img.icons8.com/color/65/000000/adobe-xd--v1.png" alt="phpstorm" width="45" height="45"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="postman" width="45" height="45"/>
+       <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png" alt="vscode" width="45" height="45"/>
+       <img src="https://img.icons8.com/color/65/000000/adobe-xd--v1.png" alt="phpstorm" width="45" height="45"/>
    
 </div>
 
